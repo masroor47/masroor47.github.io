@@ -2,8 +2,6 @@
 
 Here I will learn web development and stuff
 
----
-
 ## HTML
 I will start learning basic html pages with plain structure like this:
 
