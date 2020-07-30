@@ -1,10 +1,10 @@
-#Welcome to my new project!
+# Welcome to my new project!
 
 Here I will learn web development and stuff
 
 ---
 
-##HTML
+## HTML
 I will start learning basic html pages with plain structure like this:
 
 ```
@@ -19,7 +19,7 @@ I will start learning basic html pages with plain structure like this:
 </html>
 ```
 
-##CSS
+## CSS
 We can make that basic page a tiny bit prettier with cascading style sheets:
 
 ```
